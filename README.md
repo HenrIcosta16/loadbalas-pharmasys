@@ -247,6 +247,12 @@
    
       👉  curl http://localhost/status
 
+   ✔ Verifique os logs: os ips apareceram no log dos nos. para ver 
+  digite o seguinte comando:
+
+       👉    docker-compose logs node1 | grep "X-Real-IP"
+          
+
    
    
    
