@@ -27,11 +27,11 @@
 
   # 📂 Passo 2: Preparação dos Arquivos 
 
-   1.de um ls pra ver se foi buildado, Copie a pasta 'dist' para o diretório do load balancer, a pasta ja é criada automaticamente como padrao com o nome dist, basta renomear o nome dela para build e todos os caminhos onde ela se encontra
+   1.de um ls no caminho da pasta pra ver se foi buildado. Copie a pasta 'dist' para o diretório do load balancer, a pasta ja é criada automaticamente como padrao com o nome dist, basta renomear o nome dela para build e todos os caminhos onde ela se encontra, veja como fazer isso na etapa 2 e 3 desse desse passo.
 
       ls /home/henrique/Downloads/PharmaSys-Front-main
 
-   2.vocẽ recebera uma saida parecida em seguida use o comando cp para copiar a construção da pagina para a pasta do loadbalaspharmasys 
+   2.apos o 1 comando do 2 passo,se caso for buildado você ira recebera uma saida parecida com essa 
 
       db.json  dist  eslint.config.js  index.html  node_modules  package.json  package-lock.json  public  server.js  src  vite.config.js
 
