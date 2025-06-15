@@ -15,7 +15,7 @@
 
 
 
-  # 🚀 Passo 1: Build da Aplicação
+  # 🚀 Passo 1: Build da Aplicação para o Nginx
 
   Opção 1 - Se já tiver as dependências instaladas
 
